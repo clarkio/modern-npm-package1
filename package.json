@@ -1,0 +1,31 @@
+{
+  "name": "@clarkio/modern-npm-package",
+  "version": "0.0.1",
+  "description": "A modern npm package for demonstration purposes using the ECMAScript Module format (i.e. ESM or ES Module). It can be used in Node.js and browser applications.",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/clarkio/modern-npm-package.git"
+  },
+  "keywords": [
+    "npm",
+    "javascript",
+    "typescript",
+    "nodejs",
+    "node.js",
+    "package",
+    "hello",
+    "world",
+    "demonstration"
+  ],
+  "author": "clarkio",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/clarkio/modern-npm-package/issues"
+  },
+  "homepage": "https://github.com/clarkio/modern-npm-package#readme"
+}
