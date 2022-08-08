@@ -1,3 +1,5 @@
 export function helloWorld() {
-  console.log('Hello World from this npm package');
+  const message = 'Hello World from this npm package';
+  console.log(message);
+  return message;
 }
